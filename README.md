@@ -1,5 +1,5 @@
 # Hotel Review Analysis - Banff Caribou Case Study
-Interactive report in [copilot](https://colab.research.google.com/drive/1e_3A77Lljy18UzZjqb1w-l8lcZLhunP1?usp=sharing)
+Interactive dashboard in [copilot](https://colab.research.google.com/drive/1e_3A77Lljy18UzZjqb1w-l8lcZLhunP1?usp=sharing)
 
 ## Overview
 Online guest reviews represent an unsolicited, unfiltered view of the customer experience and are a primary input in hotel selection decisions. Research indicates that 86% of consumers are reluctant to purchase from businesses with a high volume of negative reviews, making review sentiment a material driver of occupancy and revenue.
